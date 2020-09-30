@@ -12,7 +12,7 @@ class child:
     childAge = ""
 
 parent1 = parent()
-parent1.motorcycle()
+parent1.father_motorcycle()
 
 child1 = child()
 child1.childName = "Zubair"
